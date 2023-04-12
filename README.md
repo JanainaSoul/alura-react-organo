@@ -1,3 +1,13 @@
+# Curso Alura React:desenvolvendo com JavaScript
+
+# Linguagens
+
+# Aprendizados
+
+# Links 
+O que é node.js? -> https://www.hipsters.tech/o-que-e-node-js/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
