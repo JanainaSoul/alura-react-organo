@@ -8,7 +8,7 @@ const CampoTexto = (props) => { //props = propriedade
         <label>
             {props.label}
         </label>
-        <input placeholder={placeholderModificada}/>
+        <input required={props.obrigatorio} placeholder={placeholderModificada}/>
     </div>
 )
     
