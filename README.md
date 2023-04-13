@@ -4,6 +4,28 @@
 
 # Aprendizados
 
+01 - Uma bibliotec adeclarativa
+
+Criamos um novo projeto React;
+
+Criamos componentes funcionais;
+
+Estilizamos componentes com CSS;
+
+Analisamos as dependências do projeto;
+
+Analisamos os comandos disponíveis no package.json.
+
+02 - Trabalhando com props
+
+Aprendemos como passar props para um componente;
+
+Renderizamos listas com o .map;
+
+Trabalhamos com elementos aninhados usando a prop children;
+
+Ouvimos elementos disparados pelo DOM: o onSubmit do nosso form.
+
 # Links 
 O que é node.js? -> https://www.hipsters.tech/o-que-e-node-js/
 Eventos HTML -> https://developer.mozilla.org/pt-BR/docs/Web/Events
