@@ -6,6 +6,7 @@
 
 # Links 
 O que é node.js? -> https://www.hipsters.tech/o-que-e-node-js/
+Eventos HTML -> https://developer.mozilla.org/pt-BR/docs/Web/Events
 
 
 # Getting Started with Create React App
