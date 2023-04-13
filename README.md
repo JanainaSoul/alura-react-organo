@@ -9,6 +9,7 @@ O que é node.js? -> https://www.hipsters.tech/o-que-e-node-js/
 Eventos HTML -> https://developer.mozilla.org/pt-BR/docs/Web/Events
 Camel case -> https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case
 Hadling Events -> https://legacy.reactjs.org/docs/handling-events.html
+JavaScript: Quando devo usar forEach e map? -> https://www.alura.com.br/artigos/javascript-quando-devo-usar-foreach-e-map
 
 
 # Getting Started with Create React App
