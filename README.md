@@ -26,6 +26,14 @@ Trabalhamos com elementos aninhados usando a prop children;
 
 Ouvimos elementos disparados pelo DOM: o onSubmit do nosso form.
 
+03 - Interagindo com o ususário
+
+Controlar inputs utilizando value e onChange;
+
+Gerenciar o estado de um componente, utilizando o useState;
+
+Trabalhar com props que são funções.
+
 # Links 
 O que é node.js? -> https://www.hipsters.tech/o-que-e-node-js/
 Eventos HTML -> https://developer.mozilla.org/pt-BR/docs/Web/Events
