@@ -50,6 +50,34 @@ Hadling Events -> https://legacy.reactjs.org/docs/handling-events.html
 JavaScript: Quando devo usar forEach e map? -> https://www.alura.com.br/artigos/javascript-quando-devo-usar-foreach-e-map
 Prop Drilling -> https://www.alura.com.br/artigos/prop-drilling-no-react-js
 
+Craindo conta no github -> 
+Primeiro passo para você criar uma conta no GitHub é acessar o site do GitHub através deste link e clicar em Sign up.
+![image](https://user-images.githubusercontent.com/104031152/232596639-6b53a1a3-6e3e-4083-86cb-8475a15fc6df.png)
+Você verá uma página como essa:
+![image](https://user-images.githubusercontent.com/104031152/232596679-e6aa6fd9-66a9-41a7-951c-90f1068af198.png)
+Faça o seguinte:
+
+Digite o seu e-mail;
+Crie uma senha;
+Digite um nome de usuário;
+Se desejar receber atualizações e anúncios de produtos por e-mail, digite "y" para sim ou "n" para não;
+Clica no botão Continue.
+Após preencher suas informações pessoais e clicar em Continue, clique em Create Account. Você receberá uma confirmação de cadastro por email.
+
+Depois de validar sua conta é só utilizar os serviços do GitHub :)
+
+Criando conta NO Vercel ->
+
+Primeiro passo para você criar uma conta no Vercel é acessar o site do Vercel através deste link(https://vercel.com/) e clicar em Sign up.
+![image](https://user-images.githubusercontent.com/104031152/232597034-056972e7-6375-4913-9737-a401688b3a42.png)
+
+Após clicar em Sign up, você verá uma página como essa:
+![image](https://user-images.githubusercontent.com/104031152/232597081-4f6f672a-0b5b-4016-9614-a4662eda663d.png)
+
+Então, clique em continuar com GitHub e pronto! Sua conta foi criada, agora é só utilizar os serviços da Vercel. :)
+
+
+
 
 # Getting Started with Create React App
 
