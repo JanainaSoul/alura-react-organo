@@ -42,6 +42,14 @@ Filtrar itens de um array;
 
 Renderização condicional.
 
+05 - Caça aos bugs
+
+Ler e interpretar mensagens de erro;
+
+Corrigir erros;
+
+Depurar o seu código com o debugger.
+
 # Links 
 O que é node.js? -> https://www.hipsters.tech/o-que-e-node-js/
 Eventos HTML -> https://developer.mozilla.org/pt-BR/docs/Web/Events
