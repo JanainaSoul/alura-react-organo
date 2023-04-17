@@ -1,14 +1,14 @@
 import './Colaborador.css'
 
-const Colaborador = () => {
+const Colaborador = ({nome, imagem, cargo}) => { //desestruturar
     return (
         <div className='colaborador'> 
             <div className='cabecalho'>
-                <img src='https://github.com/JanainaSoul.png' alt='Janaina Soul'/>
+                <img src={imagem} alt={nome}/>
             </div>
             <div className='rodape'>
-                <h4> Janaina Souza</h4>
-                <h5> Front-End</h5>
+                <h4>{nome}</h4>
+                <h5>{cargo}</h5>
             </div>
         </div>
     )
