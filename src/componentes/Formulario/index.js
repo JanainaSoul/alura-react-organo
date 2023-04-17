@@ -31,6 +31,10 @@ const Formulario = (props) => {
                 imagem,
                 time
             })
+            setNome('')
+            setCargo('')
+            setImagem('')
+            setTime('')
             //console.log('Form foi submetido => ', nome, cargo, imagem, time)
         }
 
