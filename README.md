@@ -34,6 +34,14 @@ Gerenciar o estado de um componente, utilizando o useState;
 
 Trabalhar com props que são funções.
 
+04 - Montando os Times
+
+Manipular e transformar arrays de objetos;
+
+Filtrar itens de um array;
+
+Renderização condicional.
+
 # Links 
 O que é node.js? -> https://www.hipsters.tech/o-que-e-node-js/
 Eventos HTML -> https://developer.mozilla.org/pt-BR/docs/Web/Events
