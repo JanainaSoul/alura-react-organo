@@ -1,5 +1,9 @@
 # Curso Alura React:desenvolvendo com JavaScript
 
+# Figma
+
+https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134-143&t=ibl84ahgBXeLD6dD-0
+
 # Linguagens
 
 # Aprendizados
